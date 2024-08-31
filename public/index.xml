@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SunkenPotato</title>
-    <link>/</link>
+    <link>//localhost:50650/</link>
     <description>Recent content on SunkenPotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Aug 2024 20:00:12 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2024 20:00:12 +0200</lastBuildDate><atom:link href="//localhost:50650/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Website</title>
-      <link>/posts/post1/</link>
+      <link>//localhost:50650/posts/post1/</link>
       <pubDate>Sat, 31 Aug 2024 08:56:37 +0200</pubDate>
       
-      <guid>/posts/post1/</guid>
+      <guid>//localhost:50650/posts/post1/</guid>
       <description>As some may know, I had another website before this. I made it myself, since I thought,
 you know, maybe I&amp;rsquo;ll be good at CSS&amp;hellip;(?)
 Nope. I&amp;rsquo;m awful at CSS. The elements were overflowing, grid elements not filling grids, etc., etc. So I&amp;rsquo;m using the Terminal theme instead by panr. It&amp;rsquo;s looking pretty good for now, and I&amp;rsquo;m happy about how it&amp;rsquo;s turned out.
@@ -33,10 +33,10 @@ Have a nice day&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:50650/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>//localhost:50650/about/</guid>
       <description>Website The theme is Terminal by panr. I had another self-made theme before, but since I&amp;rsquo;m not great at CSS, I decided to use this.
 Gear I do most of my work on my PC, but lately I&amp;rsquo;m using my Mac more often too. PC:
 GPU: NVIDIA RTX 4060Ti CPU: Ryzen 9 7900X RAM: 32GB DDR5 Storage: 1TB M.2 NVMe SSD Case: Fractal Define Mac: MacBook M2 16GB
@@ -66,10 +66,10 @@ E-Mail: &lt;a href=&#34;mailto:3.14radius02@gmail.com&#34;&gt;3.14radius02@gmail
     
     <item>
       <title>Photos</title>
-      <link>/photos/</link>
+      <link>//localhost:50650/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/photos/</guid>
+      <guid>//localhost:50650/photos/</guid>
       <description>I do some Photography (no, surprise, I&amp;rsquo;m not a mole, and I go outside). Stills and landscape are my favorite types of photography. I use a Sony α6300 and a 16-50mm 3.5-5.6ƒ, and Lightroom for editing.</description>
       <content>&lt;p&gt;I do some Photography (no, surprise, I&amp;rsquo;m not a mole, and I go outside). &lt;br&gt;
 Stills and landscape are my favorite types of photography. &lt;br&gt;
@@ -80,92 +80,92 @@ I use a Sony α6300 and a 16-50mm 3.5-5.6ƒ, and Lightroom for editing.&lt;/p&gt
     
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00002.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00002.jpg&#34; alt=&#34;DSC00002.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00002.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00002.jpg&#34; alt=&#34;DSC00002.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00003.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00003.jpg&#34; alt=&#34;DSC00003.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00003.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00003.jpg&#34; alt=&#34;DSC00003.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00005.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00005.jpg&#34; alt=&#34;DSC00005.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00005.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00005.jpg&#34; alt=&#34;DSC00005.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00025.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00025.jpg&#34; alt=&#34;DSC00025.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00025.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00025.jpg&#34; alt=&#34;DSC00025.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00033.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00033.jpg&#34; alt=&#34;DSC00033.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00033.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00033.jpg&#34; alt=&#34;DSC00033.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00035.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00035.jpg&#34; alt=&#34;DSC00035.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00035.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00035.jpg&#34; alt=&#34;DSC00035.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00039.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00039.jpg&#34; alt=&#34;DSC00039.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00039.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00039.jpg&#34; alt=&#34;DSC00039.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00085.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00085.jpg&#34; alt=&#34;DSC00085.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00085.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00085.jpg&#34; alt=&#34;DSC00085.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00093-2.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00093-2.jpg&#34; alt=&#34;DSC00093-2.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00093-2.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00093-2.jpg&#34; alt=&#34;DSC00093-2.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC00095-2.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC00095-2.jpg&#34; alt=&#34;DSC00095-2.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC00095-2.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC00095-2.jpg&#34; alt=&#34;DSC00095-2.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC09164.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC09164.jpg&#34; alt=&#34;DSC09164.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC09164.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC09164.jpg&#34; alt=&#34;DSC09164.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC09214.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC09214.jpg&#34; alt=&#34;DSC09214.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC09214.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC09214.jpg&#34; alt=&#34;DSC09214.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC09352-Edit.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC09352-Edit.jpg&#34; alt=&#34;DSC09352-Edit.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC09352-Edit.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC09352-Edit.jpg&#34; alt=&#34;DSC09352-Edit.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC09366.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC09366.jpg&#34; alt=&#34;DSC09366.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC09366.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC09366.jpg&#34; alt=&#34;DSC09366.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
         &lt;div class=&#34;image-wrapper&#34;&gt;
-            &lt;a href=&#34;/photos/DSC09735.jpg&#34; class=&#34;excl&#34;&gt;
-                &lt;img src=&#34;/photos/DSC09735.jpg&#34; alt=&#34;DSC09735.jpg&#34; class=&#34;image&#34;&gt;
+            &lt;a href=&#34;//localhost:50650/photos/DSC09735.jpg&#34; class=&#34;excl&#34;&gt;
+                &lt;img src=&#34;//localhost:50650/photos/DSC09735.jpg&#34; alt=&#34;DSC09735.jpg&#34; class=&#34;image&#34;&gt;
             &lt;/a&gt;
         &lt;/div&gt;
     
