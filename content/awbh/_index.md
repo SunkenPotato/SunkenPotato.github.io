@@ -18,3 +18,5 @@ Links: [GitHub repository]() | [Discord server]()
 None at the moment, I'm sorry :(
 
 For contributions or more info, message me or join the discord server.
+
+Current project members: SunkenPotato
