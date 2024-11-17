@@ -6,7 +6,7 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["webdev", ""]
 keywords = ["", ""]
-description = ""
+description = "New website - any good?"
 showFullContent = false
 readingTime = true
 hideComments = false
@@ -21,4 +21,4 @@ It's looking pretty good for now, and I'm happy about how it's turned out.
 I'm now working on a Cloud-storage application called Homebase, made in Rust and Java(FX). 
 If you're interested, either follow my irregular postings here, or join my Discord Server \
 \
-Have a nice day
+Have a nice day!
