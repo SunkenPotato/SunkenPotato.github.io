@@ -306,6 +306,8 @@ fn main() {
 ```
 That's pretty much it. The next step would be removing the k from the equation and making the algorithm guess it, but I'm not covering that here.
 
+You can find the full code [here](https://github.com/SunkenPotato/kmeans-rs)
+
 Thanks for reading!
 <hr>
 
