@@ -10,7 +10,6 @@ description = "Writing the K-Means algorithm in Rust"
 showFullContent = false
 readingTime = true
 hideComments = false
-draft = true
 +++
 I got an assignment for this week: write the K-Means algorithm, in any language you like. \
 So, first, we have to understand what it does and how it works.
@@ -282,9 +281,13 @@ And would you look at that, we're done! The only thing left to do is mash it all
 Also, when we compare the centroids, we have to make sure that the vectors are the same **regardless of order**.
 ```rust
 // Smaller in this case is defined as closer to [0, 0]
-fn sort_point_vec(v: &mut IndexVec<CentroidIdx, Vec2>) {
-    v.sort_by(|a, b| a.x.total_cmp(&b.x).cmp(&a.y.total_cmp(&b.y)))
+fn sort_point_vec(v: &IndexVec<CentroidIdx, Vec2>) -> IndexVec<CentroidIdx, Vec2> {
+    let mut vec_clone = v.clone();
+    vec_clone.sort_by(|a, b| a.x.total_cmp(&b.x).cmp(&a.y.total_cmp(&b.y)));
+    vec_clone
 }
+
+...
 
 fn main() {
     let dataset = generate_datapoints(None, None, None);
@@ -294,9 +297,9 @@ fn main() {
     loop {
         ctr += 1;
         let associations = associate_centroids_to_points(&dataset, &old_centroids);
-        let mut new_centroids = update_centroids(&assoc);
+        let new_centroids = update_centroids(&assoc);
 
-        if sort_point_vec(&mut new_centroids) == sort_point_vec(&mut old_centroids) {
+        if sort_point_vec(&new_centroids) == sort_point_vec(&old_centroids) {
             break;
         }
     }
