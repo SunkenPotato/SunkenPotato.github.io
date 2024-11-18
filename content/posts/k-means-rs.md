@@ -10,6 +10,7 @@ description = "Writing the K-Means algorithm in Rust"
 showFullContent = false
 readingTime = true
 hideComments = false
+draft = true
 +++
 I got an assignment for this week: write the K-Means algorithm, in any language you like. \
 So, first, we have to understand what it does and how it works.
